@@ -4,11 +4,9 @@ Keras-Preprocessing==1.1.2
 keras-vggface==0.6
 matplotlib
 mtcnn==0.1.1
-mypy-extensions==0.4.3
 numpy
 opencv-python==4.5.5.62
 pandas 
-scikit-image==0.18.3
 scikit-learn 
 streamlit==1.5.0
 tensorflow-cpu==2.8.0
