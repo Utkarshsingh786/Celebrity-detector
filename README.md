@@ -1,2 +1,1 @@
 # Celebrity-detector
- none
